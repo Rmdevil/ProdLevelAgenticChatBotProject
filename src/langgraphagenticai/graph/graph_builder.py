@@ -54,7 +54,6 @@ class GraphBuilder:
         self.graph_builder.add_conditional_edges("chatbot",tools_condition)
         self.graph_builder.add_edge("tools","chatbot")
 
-
     def ai_news_builder_graph(self):
 
         ai_news_node=AINewsNode(self.llm)
