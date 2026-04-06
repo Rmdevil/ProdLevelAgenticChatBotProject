@@ -1,10 +1,7 @@
----
-title: Agentic ChatBot
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: Streamlit
-sdk_version: "1.0.0"
-app_file: app.py
-pinned: false
----
+license: apache-2.0
+title: Agentic Ai ChatBot
+sdk: streamlit
+emoji: 🚀
+colorFrom: purple
+colorTo: green
+short_description: Agentic Ai ChatBot App
